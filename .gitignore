@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Our generated database and logs
+config/baseline.sqlite
+logs/*.log
+
+# Mac system files
+.DS_Store
